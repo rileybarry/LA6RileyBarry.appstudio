@@ -16,7 +16,7 @@
         "forms",
         "membership",
         "Elements",
-        "Input1.json"
+        "InpMember.json"
       ]
     },
     {
@@ -25,7 +25,16 @@
         "forms",
         "membership",
         "Elements",
-        "Button1.json"
+        "BtnMember.json"
+      ]
+    },
+    {
+      "!type": "External",
+      "file": [
+        "forms",
+        "membership",
+        "Elements",
+        "lblMember.json"
       ]
     }
   ],
