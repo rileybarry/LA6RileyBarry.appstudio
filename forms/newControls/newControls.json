@@ -63,6 +63,24 @@
         "Elements",
         "Label1.json"
       ]
+    },
+    {
+      "!type": "External",
+      "file": [
+        "forms",
+        "newControls",
+        "Elements",
+        "Progressbar1.json"
+      ]
+    },
+    {
+      "!type": "External",
+      "file": [
+        "forms",
+        "newControls",
+        "Elements",
+        "Label2.json"
+      ]
     }
   ],
   "class": "",

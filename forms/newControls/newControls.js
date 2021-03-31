@@ -9,3 +9,7 @@ imgJays.onclick=function(){
 selOne.onchange=function(){
   console.log(`${selOne.text}`)
 }
+
+Progressbar1.onclick=function(){
+  alert('You are 75% of the way complete!')
+}
