@@ -1,3 +1,4 @@
+/*
 function mult(x, y) {
   let numOne = Number(x)
   let numTwo = Number(y)
@@ -17,3 +18,4 @@ btnMult.onclick=function(){
 btnAdd.onclick=function(){
   lblOut.value = add(inpOne.value, inpTwo.value)
 }
+*/
