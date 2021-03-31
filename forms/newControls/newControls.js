@@ -6,3 +6,6 @@ jmboOne.onclick=function(){
 imgJays.onclick=function(){
   alert('You clicked the picture!')
 }
+selOne.onchange=function(){
+  console.log(`${selOne.text}`)
+}
