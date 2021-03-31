@@ -19,7 +19,7 @@
   "hidden": "",
   "id": "lblOut",
   "labelStyle": "badge",
-  "left": 10,
+  "left": 13,
   "mAll": "",
   "mBottom": "",
   "mLeft": "",
@@ -42,7 +42,7 @@
   "right": "auto",
   "script": "",
   "style": "",
-  "top": 267,
+  "top": 316,
   "value": "",
   "width": 91
 }
